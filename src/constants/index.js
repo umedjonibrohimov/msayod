@@ -1,0 +1,1 @@
+export {imagesList} from './images';
